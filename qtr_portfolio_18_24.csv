@@ -1,0 +1,810 @@
+date,BB Symbol,Stock Name,Strat,factor_quantile,Wt
+01-04-2018,AL IN Equity,Ashok Leyland Ltd.,Cons,Cons,0.03333333
+01-04-2018,APTY IN Equity,Apollo Tyres Ltd.,Cons,Cons,0.03333333
+01-04-2018,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-04-2018,CCRI IN Equity,Container Corp of India Ltd.,Cons,Cons,0.03333333
+01-04-2018,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-04-2018,DIVI IN Equity,DIVIS laboratories Ltd.,Cons,Cons,0.03333333
+01-04-2018,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-04-2018,GUJS IN Equity,Gujarat State Petronet Ltd.,Cons,Cons,0.03333333
+01-04-2018,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-04-2018,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-04-2018,JSW IN Equity,JSW Energy Ltd.,Cons,Cons,0.03333333
+01-04-2018,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-04-2018,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2018,MOTHERSO IN Equity,Samvardhana Motherson International Ltd.,Cons,Cons,0.03333333
+01-04-2018,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-04-2018,MRPL IN Equity,Mangalore Refinery and Petrochemicals,Cons,Cons,0.03333333
+01-04-2018,MSIL IN Equity,Maruti Suzuki India Ltd.,Cons,Cons,0.03333333
+01-04-2018,PEPL IN Equity,Prestige Estates Projects Ltd,Cons,Cons,0.03333333
+01-04-2018,PIEL IN Equity,Piramal Enterprises Ltd.,Cons,Cons,0.03333333
+01-04-2018,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-04-2018,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-04-2018,SAMMAANC IN Equity,Sammaan Capital Limited,Cons,Cons,0.03333333
+01-04-2018,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-04-2018,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-04-2018,TCS IN Equity,Tata Consultancy Services,Cons,Cons,0.03333333
+01-04-2018,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2018,TTCH IN Equity,Tata Chemicals Ltd,Cons,Cons,0.03333333
+01-04-2018,TVSL IN Equity,TVS Motor Company Ltd.,Cons,Cons,0.03333333
+01-04-2018,VOLT IN Equity,Voltas Ltd.,Cons,Cons,0.03333333
+01-04-2018,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-07-2018,AL IN Equity,Ashok Leyland Ltd.,Cons,Cons,0.03333333
+01-07-2018,APTY IN Equity,Apollo Tyres Ltd.,Cons,Cons,0.03333333
+01-07-2018,BJFIN IN Equity,Bajaj Finserv Ltd,Cons,Cons,0.03333333
+01-07-2018,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-07-2018,BOOT IN Equity,Abbott India Ltd.,Cons,Cons,0.03333333
+01-07-2018,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-07-2018,DIVI IN Equity,DIVIS laboratories Ltd.,Cons,Cons,0.03333333
+01-07-2018,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-07-2018,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-07-2018,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-07-2018,JSW IN Equity,JSW Energy Ltd.,Cons,Cons,0.03333333
+01-07-2018,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-07-2018,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2018,MMFS IN Equity,M&M Financial Services Ltd.,Cons,Cons,0.03333333
+01-07-2018,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-07-2018,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-07-2018,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-07-2018,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-07-2018,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2018,PFIZ IN Equity,Pfizer Ltd.,Cons,Cons,0.03333333
+01-07-2018,PHNX IN Equity,Phoenix Mills Ltd.,Cons,Cons,0.03333333
+01-07-2018,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-07-2018,SAMMAANC IN Equity,Sammaan Capital Limited,Cons,Cons,0.03333333
+01-07-2018,SRF IN Equity,SRF Ltd.,Cons,Cons,0.03333333
+01-07-2018,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-07-2018,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-07-2018,TCS IN Equity,Tata Consultancy Services,Cons,Cons,0.03333333
+01-07-2018,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2018,TTCH IN Equity,Tata Chemicals Ltd,Cons,Cons,0.03333333
+01-07-2018,YES IN Equity,YES Bank Ltd.,Cons,Cons,0.03333333
+01-10-2018,ARTO IN Equity,Aarti Industries Ltd.,Cons,Cons,0.03333333
+01-10-2018,ATLP IN Equity,Atul Ltd.,Cons,Cons,0.03333333
+01-10-2018,BOOT IN Equity,Abbott India Ltd.,Cons,Cons,0.03333333
+01-10-2018,CUBK IN Equity,City Union Bank Ltd.,Cons,Cons,0.03333333
+01-10-2018,DABUR IN Equity,Dabur India Ltd.,Cons,Cons,0.03333333
+01-10-2018,EIH IN Equity,EIH Ltd.,Cons,Cons,0.03333333
+01-10-2018,EXID IN Equity,Exide Industries Ltd.,Cons,Cons,0.03333333
+01-10-2018,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-10-2018,GCPL IN Equity,Godrej Consumer Products Ltd.,Cons,Cons,0.03333333
+01-10-2018,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-10-2018,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-10-2018,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-10-2018,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-10-2018,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-10-2018,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-10-2018,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2018,MMFS IN Equity,M&M Financial Services Ltd.,Cons,Cons,0.03333333
+01-10-2018,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-10-2018,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-10-2018,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2018,PFIZ IN Equity,Pfizer Ltd.,Cons,Cons,0.03333333
+01-10-2018,PIEL IN Equity,Piramal Enterprises Ltd.,Cons,Cons,0.03333333
+01-10-2018,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-10-2018,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-10-2018,SANL IN Equity,Sanofi India Ltd.,Cons,Cons,0.03333333
+01-10-2018,SRF IN Equity,SRF Ltd.,Cons,Cons,0.03333333
+01-10-2018,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-10-2018,TCS IN Equity,Tata Consultancy Services,Cons,Cons,0.03333333
+01-10-2018,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2018,TTCH IN Equity,Tata Chemicals Ltd,Cons,Cons,0.03333333
+01-01-2019,AL IN Equity,Ashok Leyland Ltd.,Cons,Cons,0.03333333
+01-01-2019,ALPM IN Equity,Alembic Pharmaceuticals Limited,Cons,Cons,0.03333333
+01-01-2019,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-01-2019,ATLP IN Equity,Atul Ltd.,Cons,Cons,0.03333333
+01-01-2019,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-01-2019,BOOT IN Equity,Abbott India Ltd.,Cons,Cons,0.03333333
+01-01-2019,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-01-2019,EIH IN Equity,EIH Ltd.,Cons,Cons,0.03333333
+01-01-2019,EXID IN Equity,Exide Industries Ltd.,Cons,Cons,0.03333333
+01-01-2019,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-01-2019,GNP IN Equity,Glenmark Pharmaceuticals Ltd,Cons,Cons,0.03333333
+01-01-2019,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-01-2019,HDFC IN Equity,Housing Development Finance Corp Ltd,Cons,Cons,0.03333333
+01-01-2019,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-01-2019,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-01-2019,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-01-2019,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-01-2019,LPC IN Equity,Lupin Ltd.,Cons,Cons,0.03333333
+01-01-2019,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-01-2019,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2019,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-01-2019,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-01-2019,PFIZ IN Equity,Pfizer Ltd.,Cons,Cons,0.03333333
+01-01-2019,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-01-2019,SANL IN Equity,Sanofi India Ltd.,Cons,Cons,0.03333333
+01-01-2019,TCS IN Equity,Tata Consultancy Services,Cons,Cons,0.03333333
+01-01-2019,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2019,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-01-2019,TTCH IN Equity,Tata Chemicals Ltd,Cons,Cons,0.03333333
+01-01-2019,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-04-2019,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-04-2019,ATLP IN Equity,Atul Ltd.,Cons,Cons,0.03333333
+01-04-2019,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-04-2019,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-04-2019,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-04-2019,BOOT IN Equity,Abbott India Ltd.,Cons,Cons,0.03333333
+01-04-2019,DABUR IN Equity,Dabur India Ltd.,Cons,Cons,0.03333333
+01-04-2019,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-04-2019,EXID IN Equity,Exide Industries Ltd.,Cons,Cons,0.03333333
+01-04-2019,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-04-2019,GNP IN Equity,Glenmark Pharmaceuticals Ltd,Cons,Cons,0.03333333
+01-04-2019,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-04-2019,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-04-2019,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-04-2019,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-04-2019,LPC IN Equity,Lupin Ltd.,Cons,Cons,0.03333333
+01-04-2019,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-04-2019,LTIM IN Equity,LTIMindtree Limited,Cons,Cons,0.03333333
+01-04-2019,LTTS IN Equity,L&T Technology Services Ltd.,Cons,Cons,0.03333333
+01-04-2019,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-04-2019,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-04-2019,PFIZ IN Equity,Pfizer Ltd.,Cons,Cons,0.03333333
+01-04-2019,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-04-2019,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-04-2019,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-04-2019,SRF IN Equity,SRF Ltd.,Cons,Cons,0.03333333
+01-04-2019,TCS IN Equity,Tata Consultancy Services,Cons,Cons,0.03333333
+01-04-2019,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2019,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-04-2019,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-07-2019,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03333333
+01-07-2019,ATLP IN Equity,Atul Ltd.,Cons,Cons,0.03333333
+01-07-2019,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-07-2019,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-07-2019,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-07-2019,DIVI IN Equity,DIVIS laboratories Ltd.,Cons,Cons,0.03333333
+01-07-2019,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-07-2019,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-07-2019,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-07-2019,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-07-2019,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-07-2019,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-07-2019,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-07-2019,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-07-2019,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-07-2019,JSW IN Equity,JSW Energy Ltd.,Cons,Cons,0.03333333
+01-07-2019,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-07-2019,LICHF IN Equity,LIC Housing Finance Ltd.,Cons,Cons,0.03333333
+01-07-2019,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-07-2019,LTTS IN Equity,L&T Technology Services Ltd.,Cons,Cons,0.03333333
+01-07-2019,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-07-2019,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-07-2019,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-07-2019,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2019,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-07-2019,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-07-2019,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-07-2019,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2019,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-07-2019,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-10-2019,ABCAP IN Equity,Aditya Birla Real Estate Limited,Cons,Cons,0.03333333
+01-10-2019,APHS IN Equity,Apollo Hospitals Enterprise Limited,Cons,Cons,0.03333333
+01-10-2019,ARTO IN Equity,Aarti Industries Ltd.,Cons,Cons,0.03333333
+01-10-2019,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-10-2019,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-10-2019,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-10-2019,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-10-2019,GUJS IN Equity,Gujarat State Petronet Ltd.,Cons,Cons,0.03333333
+01-10-2019,HDFC IN Equity,Housing Development Finance Corp Ltd,Cons,Cons,0.03333333
+01-10-2019,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-10-2019,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-10-2019,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-10-2019,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-10-2019,IPRU IN Equity,ICICI Prudential Life Insurance,Cons,Cons,0.03333333
+01-10-2019,JSW IN Equity,JSW Energy Ltd.,Cons,Cons,0.03333333
+01-10-2019,LICHF IN Equity,LIC Housing Finance Ltd.,Cons,Cons,0.03333333
+01-10-2019,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-10-2019,MAHGL IN Equity,Mahanagar Gas Ltd.,Cons,Cons,0.03333333
+01-10-2019,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-10-2019,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-10-2019,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-10-2019,OBER IN Equity,Oberoi Realty Ltd.,Cons,Cons,0.03333333
+01-10-2019,PHNX IN Equity,Phoenix Mills Ltd.,Cons,Cons,0.03333333
+01-10-2019,PI IN Equity,PI Industries Ltd,Cons,Cons,0.03333333
+01-10-2019,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-10-2019,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-10-2019,RJEX IN Equity,Rajesh Exports Ltd.,Cons,Cons,0.03333333
+01-10-2019,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-10-2019,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-10-2019,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-01-2020,BHARTI IN Equity,Bharti Airtel Ltd.,Cons,Cons,0.03333333
+01-01-2020,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-01-2020,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-01-2020,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-01-2020,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-01-2020,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-01-2020,GUJS IN Equity,Gujarat State Petronet Ltd.,Cons,Cons,0.03333333
+01-01-2020,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-01-2020,HDFC IN Equity,Housing Development Finance Corp Ltd,Cons,Cons,0.03333333
+01-01-2020,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-01-2020,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-01-2020,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-01-2020,IPRU IN Equity,ICICI Prudential Life Insurance,Cons,Cons,0.03333333
+01-01-2020,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-01-2020,JSW IN Equity,JSW Energy Ltd.,Cons,Cons,0.03333333
+01-01-2020,LICHF IN Equity,LIC Housing Finance Ltd.,Cons,Cons,0.03333333
+01-01-2020,MAHGL IN Equity,Mahanagar Gas Ltd.,Cons,Cons,0.03333333
+01-01-2020,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-01-2020,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-01-2020,PHNX IN Equity,Phoenix Mills Ltd.,Cons,Cons,0.03333333
+01-01-2020,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-01-2020,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-01-2020,RJEX IN Equity,Rajesh Exports Ltd.,Cons,Cons,0.03333333
+01-01-2020,SIEM IN Equity,Siemens Ltd.,Cons,Cons,0.03333333
+01-01-2020,SUF IN Equity,Sundaram Finance Ltd.,Cons,Cons,0.03333333
+01-01-2020,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-01-2020,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2020,TRCL IN Equity,The Ramco Cements Ltd.,Cons,Cons,0.03333333
+01-01-2020,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-01-2020,VOLT IN Equity,Voltas Ltd.,Cons,Cons,0.03333333
+01-04-2020,ALKEM IN Equity,Alkem Laboratories Ltd.,Cons,Cons,0.03333333
+01-04-2020,ALPM IN Equity,Alembic Pharmaceuticals Limited,Cons,Cons,0.03333333
+01-04-2020,APHS IN Equity,Apollo Hospitals Enterprise Limited,Cons,Cons,0.03333333
+01-04-2020,ARTO IN Equity,Aarti Industries Ltd.,Cons,Cons,0.03333333
+01-04-2020,ATLP IN Equity,Atul Ltd.,Cons,Cons,0.03333333
+01-04-2020,BHARTI IN Equity,Bharti Airtel Ltd.,Cons,Cons,0.03333333
+01-04-2020,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-04-2020,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-04-2020,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-04-2020,GUJS IN Equity,Gujarat State Petronet Ltd.,Cons,Cons,0.03333333
+01-04-2020,HDFC IN Equity,Housing Development Finance Corp Ltd,Cons,Cons,0.03333333
+01-04-2020,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-04-2020,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-04-2020,IPRU IN Equity,ICICI Prudential Life Insurance,Cons,Cons,0.03333333
+01-04-2020,LTIM IN Equity,LTIMindtree Limited,Cons,Cons,0.03333333
+01-04-2020,MAXF IN Equity,Max Financial Services Ltd.,Cons,Cons,0.03333333
+01-04-2020,MRF IN Equity,MRF Ltd.,Cons,Cons,0.03333333
+01-04-2020,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-04-2020,PHNX IN Equity,Phoenix Mills Ltd.,Cons,Cons,0.03333333
+01-04-2020,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-04-2020,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-04-2020,SANL IN Equity,Sanofi India Ltd.,Cons,Cons,0.03333333
+01-04-2020,SBILIFE IN Equity,SBI Life Insurance Company Ltd.,Cons,Cons,0.03333333
+01-04-2020,SI IN Equity,Supreme Industries Ltd.,Cons,Cons,0.03333333
+01-04-2020,SJVN IN Equity,SJVN Ltd.,Cons,Cons,0.03333333
+01-04-2020,SRF IN Equity,SRF Ltd.,Cons,Cons,0.03333333
+01-04-2020,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-04-2020,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2020,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-04-2020,VBL IN Equity,Varun Beverages Ltd.,Cons,Cons,0.03333333
+01-07-2020,AJP IN Equity,Ajanta Pharma.,Cons,Cons,0.03333333
+01-07-2020,ALKEM IN Equity,Alkem Laboratories Ltd.,Cons,Cons,0.03333333
+01-07-2020,ALPM IN Equity,Alembic Pharmaceuticals Limited,Cons,Cons,0.03333333
+01-07-2020,ARENM IN Equity,Amara Raja Energy & Mobility Ltd.,Cons,Cons,0.03333333
+01-07-2020,BHARTI IN Equity,Bharti Airtel Ltd.,Cons,Cons,0.03333333
+01-07-2020,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-07-2020,BOOT IN Equity,Abbott India Ltd.,Cons,Cons,0.03333333
+01-07-2020,CIPLA IN Equity,Cipla Ltd.,Cons,Cons,0.03333333
+01-07-2020,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-07-2020,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-07-2020,EXID IN Equity,Exide Industries Ltd.,Cons,Cons,0.03333333
+01-07-2020,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-07-2020,GUJS IN Equity,Gujarat State Petronet Ltd.,Cons,Cons,0.03333333
+01-07-2020,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-07-2020,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-07-2020,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-07-2020,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-07-2020,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-07-2020,MAHGL IN Equity,Mahanagar Gas Ltd.,Cons,Cons,0.03333333
+01-07-2020,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-07-2020,MRF IN Equity,MRF Ltd.,Cons,Cons,0.03333333
+01-07-2020,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-07-2020,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-07-2020,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-07-2020,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-07-2020,SANL IN Equity,Sanofi India Ltd.,Cons,Cons,0.03333333
+01-07-2020,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-07-2020,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-07-2020,TRP IN Equity,Torrent Pharmaceuticals Ltd.,Cons,Cons,0.03333333
+01-07-2020,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-10-2020,AJP IN Equity,Ajanta Pharma.,Cons,Cons,0.03333333
+01-10-2020,ALKEM IN Equity,Alkem Laboratories Ltd.,Cons,Cons,0.03333333
+01-10-2020,ALPM IN Equity,Alembic Pharmaceuticals Limited,Cons,Cons,0.03333333
+01-10-2020,CIPLA IN Equity,Cipla Ltd.,Cons,Cons,0.03333333
+01-10-2020,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-10-2020,DN IN Equity,Deepak Nitrite Ltd.,Cons,Cons,0.03333333
+01-10-2020,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-10-2020,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-10-2020,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-10-2020,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-10-2020,HZ IN Equity,Hindustan Zinc Ltd.,Cons,Cons,0.03333333
+01-10-2020,IPCA IN Equity,Ipca Laboratories,Cons,Cons,0.03333333
+01-10-2020,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-10-2020,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-10-2020,LTIM IN Equity,LTIMindtree Limited,Cons,Cons,0.03333333
+01-10-2020,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2020,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-10-2020,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-10-2020,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-10-2020,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-10-2020,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2020,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-10-2020,SRF IN Equity,SRF Ltd.,Cons,Cons,0.03333333
+01-10-2020,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-10-2020,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-10-2020,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2020,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-10-2020,TRP IN Equity,Torrent Pharmaceuticals Ltd.,Cons,Cons,0.03333333
+01-10-2020,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-10-2020,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-01-2021,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03333333
+01-01-2021,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-01-2021,AJP IN Equity,Ajanta Pharma.,Cons,Cons,0.03333333
+01-01-2021,ALKEM IN Equity,Alkem Laboratories Ltd.,Cons,Cons,0.03333333
+01-01-2021,ALPM IN Equity,Alembic Pharmaceuticals Limited,Cons,Cons,0.03333333
+01-01-2021,ARENM IN Equity,Amara Raja Energy & Mobility Ltd.,Cons,Cons,0.03333333
+01-01-2021,ATLP IN Equity,Atul Ltd.,Cons,Cons,0.03333333
+01-01-2021,BIL IN Equity,Balkrishna Industries Ltd.,Cons,Cons,0.03333333
+01-01-2021,CIPLA IN Equity,Cipla Ltd.,Cons,Cons,0.03333333
+01-01-2021,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-01-2021,DN IN Equity,Deepak Nitrite Ltd.,Cons,Cons,0.03333333
+01-01-2021,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-01-2021,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03333333
+01-01-2021,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-01-2021,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-01-2021,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-01-2021,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-01-2021,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-01-2021,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-01-2021,LTIM IN Equity,LTIMindtree Limited,Cons,Cons,0.03333333
+01-01-2021,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2021,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-01-2021,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-01-2021,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-01-2021,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-01-2021,TATACONS IN Equity,Tata Consumer Products Ltd.,Cons,Cons,0.03333333
+01-01-2021,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-01-2021,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-01-2021,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-01-2021,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-04-2021,ADSEZ IN Equity,Adani Ports & SEZ Ltd.,Cons,Cons,0.03333333
+01-04-2021,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-04-2021,BHFC IN Equity,Bharat Forge Ltd.,Cons,Cons,0.03333333
+01-04-2021,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-04-2021,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-04-2021,COFORGE IN Equity,Coforge Ltd.,Cons,Cons,0.03333333
+01-04-2021,ENDU IN Equity,Endurance Technologies Ltd.,Cons,Cons,0.03333333
+01-04-2021,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-04-2021,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03333333
+01-04-2021,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-04-2021,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-04-2021,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-04-2021,HZ IN Equity,Hindustan Zinc Ltd.,Cons,Cons,0.03333333
+01-04-2021,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-04-2021,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-04-2021,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-04-2021,LICHF IN Equity,LIC Housing Finance Ltd.,Cons,Cons,0.03333333
+01-04-2021,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-04-2021,LTTS IN Equity,L&T Technology Services Ltd.,Cons,Cons,0.03333333
+01-04-2021,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2021,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-04-2021,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-04-2021,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2021,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-04-2021,SF IN Equity,Sundram Fasteners Limited.,Cons,Cons,0.03333333
+01-04-2021,SUNTV IN Equity,Sun TV Network Limited.,Cons,Cons,0.03333333
+01-04-2021,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-04-2021,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-04-2021,TVSL IN Equity,TVS Motor Company Ltd.,Cons,Cons,0.03333333
+01-04-2021,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-07-2021,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-07-2021,ADSEZ IN Equity,Adani Ports & SEZ Ltd.,Cons,Cons,0.03333333
+01-07-2021,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-07-2021,DALBHARA IN Equity,Dalmia Bharat Ltd.,Cons,Cons,0.03333333
+01-07-2021,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03333333
+01-07-2021,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-07-2021,HZ IN Equity,Hindustan Zinc Ltd.,Cons,Cons,0.03333333
+01-07-2021,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-07-2021,INFO IN Equity,Infosys,Cons,Cons,0.03333333
+01-07-2021,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-07-2021,JSW IN Equity,JSW Energy Ltd.,Cons,Cons,0.03333333
+01-07-2021,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-07-2021,LICHF IN Equity,LIC Housing Finance Ltd.,Cons,Cons,0.03333333
+01-07-2021,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-07-2021,LTIM IN Equity,LTIMindtree Limited,Cons,Cons,0.03333333
+01-07-2021,LTTS IN Equity,L&T Technology Services Ltd.,Cons,Cons,0.03333333
+01-07-2021,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2021,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-07-2021,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-07-2021,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2021,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2021,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-07-2021,SI IN Equity,Supreme Industries Ltd.,Cons,Cons,0.03333333
+01-07-2021,SUF IN Equity,Sundaram Finance Ltd.,Cons,Cons,0.03333333
+01-07-2021,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-07-2021,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2021,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-07-2021,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-07-2021,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-07-2021,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-10-2021,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03333333
+01-10-2021,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-10-2021,ADSEZ IN Equity,Adani Ports & SEZ Ltd.,Cons,Cons,0.03333333
+01-10-2021,APAT IN Equity,APL Apollo Tubes Ltd.,Cons,Cons,0.03333333
+01-10-2021,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-10-2021,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-10-2021,DALBHARA IN Equity,Dalmia Bharat Ltd.,Cons,Cons,0.03333333
+01-10-2021,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-10-2021,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03333333
+01-10-2021,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-10-2021,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-10-2021,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-10-2021,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-10-2021,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-10-2021,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-10-2021,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-10-2021,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-10-2021,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-10-2021,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-10-2021,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2021,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2021,PSYS IN Equity,Persistent Systems Ltd.,Cons,Cons,0.03333333
+01-10-2021,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2021,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-10-2021,SUF IN Equity,Sundaram Finance Ltd.,Cons,Cons,0.03333333
+01-10-2021,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2021,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-10-2021,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-10-2021,UTCEM IN Equity,UltraTech Cement Ltd.,Cons,Cons,0.03333333
+01-10-2021,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-01-2022,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03333333
+01-01-2022,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-01-2022,APAT IN Equity,APL Apollo Tubes Ltd.,Cons,Cons,0.03333333
+01-01-2022,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-01-2022,CCRI IN Equity,Container Corp of India Ltd.,Cons,Cons,0.03333333
+01-01-2022,DALBHARA IN Equity,Dalmia Bharat Ltd.,Cons,Cons,0.03333333
+01-01-2022,DN IN Equity,Deepak Nitrite Ltd.,Cons,Cons,0.03333333
+01-01-2022,ESCORTS IN Equity,Escorts Kubota Ltd.,Cons,Cons,0.03333333
+01-01-2022,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03333333
+01-01-2022,GUJGA IN Equity,Gujarat Gas Ltd.,Cons,Cons,0.03333333
+01-01-2022,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-01-2022,HPCL IN Equity,Hindustan Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-01-2022,HZ IN Equity,Hindustan Zinc Ltd.,Cons,Cons,0.03333333
+01-01-2022,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-01-2022,JKCE IN Equity,JK Cement Ltd.,Cons,Cons,0.03333333
+01-01-2022,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-01-2022,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-01-2022,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-01-2022,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-01-2022,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-01-2022,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-01-2022,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2022,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-01-2022,RJEX IN Equity,Rajesh Exports Ltd.,Cons,Cons,0.03333333
+01-01-2022,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-01-2022,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2022,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-01-2022,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-01-2022,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-01-2022,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-04-2022,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03333333
+01-04-2022,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-04-2022,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-04-2022,CRISIL IN Equity,CRISIL.,Cons,Cons,0.03333333
+01-04-2022,ESCORTS IN Equity,Escorts Kubota Ltd.,Cons,Cons,0.03333333
+01-04-2022,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-04-2022,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-04-2022,HPCL IN Equity,Hindustan Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-04-2022,HZ IN Equity,Hindustan Zinc Ltd.,Cons,Cons,0.03333333
+01-04-2022,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-04-2022,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-04-2022,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-04-2022,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-04-2022,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-04-2022,NACL IN Equity,National Aluminium Company Ltd.,Cons,Cons,0.03333333
+01-04-2022,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-04-2022,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-04-2022,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-04-2022,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-04-2022,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2022,POLYCAB IN Equity,Polycab India Ltd.,Cons,Cons,0.03333333
+01-04-2022,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-04-2022,RJEX IN Equity,Rajesh Exports Ltd.,Cons,Cons,0.03333333
+01-04-2022,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-04-2022,SCHFL IN Equity,Schaeffler (Fag Bearings) India Ltd.,Cons,Cons,0.03333333
+01-04-2022,SUNP IN Equity,Sun Pharmaceutical Industries Ltd.,Cons,Cons,0.03333333
+01-04-2022,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2022,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-04-2022,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-04-2022,WPRO IN Equity,WIPRO Ltd.,Cons,Cons,0.03333333
+01-07-2022,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03333333
+01-07-2022,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-07-2022,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03333333
+01-07-2022,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-07-2022,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-07-2022,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-07-2022,ESCORTS IN Equity,Escorts Kubota Ltd.,Cons,Cons,0.03333333
+01-07-2022,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-07-2022,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-07-2022,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-07-2022,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-07-2022,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-07-2022,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-07-2022,ITC IN Equity,ITC Ltd.,Cons,Cons,0.03333333
+01-07-2022,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-07-2022,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2022,MPHL IN Equity,Mphasis Ltd.,Cons,Cons,0.03333333
+01-07-2022,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-07-2022,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-07-2022,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-07-2022,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2022,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-07-2022,POLYCAB IN Equity,Polycab India Ltd.,Cons,Cons,0.03333333
+01-07-2022,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-07-2022,RELIANCE IN Equity,Reliance Industries Ltd.,Cons,Cons,0.03333333
+01-07-2022,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-07-2022,SRF IN Equity,SRF Ltd.,Cons,Cons,0.03333333
+01-07-2022,SUNP IN Equity,Sun Pharmaceutical Industries Ltd.,Cons,Cons,0.03333333
+01-07-2022,TECHM IN Equity,Tech Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2022,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-10-2022,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03448276
+01-10-2022,AIAE IN Equity,AIA Engineering Ltd.,Cons,Cons,0.03448276
+01-10-2022,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03448276
+01-10-2022,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03448276
+01-10-2022,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03448276
+01-10-2022,BOS IN Equity,Bosch Ltd.,Cons,Cons,0.03448276
+01-10-2022,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03448276
+01-10-2022,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03448276
+01-10-2022,ESCORTS IN Equity,Escorts Kubota Ltd.,Cons,Cons,0.03448276
+01-10-2022,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03448276
+01-10-2022,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03448276
+01-10-2022,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03448276
+01-10-2022,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03448276
+01-10-2022,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03448276
+01-10-2022,ITC IN Equity,ITC Ltd.,Cons,Cons,0.03448276
+01-10-2022,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03448276
+01-10-2022,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03448276
+01-10-2022,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03448276
+01-10-2022,MSIL IN Equity,Maruti Suzuki India Ltd.,Cons,Cons,0.03448276
+01-10-2022,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03448276
+01-10-2022,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03448276
+01-10-2022,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03448276
+01-10-2022,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03448276
+01-10-2022,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03448276
+01-10-2022,TMX IN Equity,Thermax Ltd.,Cons,Cons,0.03448276
+01-10-2022,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03448276
+01-10-2022,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03448276
+01-10-2022,TVSL IN Equity,TVS Motor Company Ltd.,Cons,Cons,0.03448276
+01-10-2022,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03448276
+01-01-2023,ACC IN Equity,ACC Ltd.,Cons,Cons,0.03333333
+01-01-2023,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-01-2023,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-01-2023,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03333333
+01-01-2023,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-01-2023,BOB IN Equity,Bank Of Baroda,Cons,Cons,0.03333333
+01-01-2023,CCRI IN Equity,Container Corp of India Ltd.,Cons,Cons,0.03333333
+01-01-2023,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-01-2023,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-01-2023,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-01-2023,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-01-2023,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-01-2023,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-01-2023,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-01-2023,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-01-2023,IRFC IN Equity,Indian Railway Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2023,ITC IN Equity,ITC Ltd.,Cons,Cons,0.03333333
+01-01-2023,JSTL IN Equity,JSW Steel Ltd.,Cons,Cons,0.03333333
+01-01-2023,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-01-2023,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2023,MRF IN Equity,MRF Ltd.,Cons,Cons,0.03333333
+01-01-2023,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-01-2023,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-01-2023,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2023,PNB IN Equity,Punjab National Bank.,Cons,Cons,0.03333333
+01-01-2023,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2023,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-01-2023,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2023,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-01-2023,UPLL IN Equity,UPL Ltd.,Cons,Cons,0.03333333
+01-04-2023,ACEM IN Equity,Ambuja Cements Ltd.,Cons,Cons,0.03333333
+01-04-2023,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03333333
+01-04-2023,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-04-2023,CBK IN Equity,Canara Bank.,Cons,Cons,0.03333333
+01-04-2023,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-04-2023,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-04-2023,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-04-2023,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-04-2023,GICRE IN Equity,General Insurance Corporation of India.,Cons,Cons,0.03333333
+01-04-2023,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-04-2023,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-04-2023,IDFCFB IN Equity,IDFC First Bank Ltd.,Cons,Cons,0.03333333
+01-04-2023,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-04-2023,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-04-2023,IRFC IN Equity,Indian Railway Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2023,ITC IN Equity,ITC Ltd.,Cons,Cons,0.03333333
+01-04-2023,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-04-2023,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2023,MRF IN Equity,MRF Ltd.,Cons,Cons,0.03333333
+01-04-2023,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-04-2023,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-04-2023,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-04-2023,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-04-2023,PNB IN Equity,Punjab National Bank.,Cons,Cons,0.03333333
+01-04-2023,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2023,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2023,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-04-2023,SI IN Equity,Supreme Industries Ltd.,Cons,Cons,0.03333333
+01-04-2023,TVSL IN Equity,TVS Motor Company Ltd.,Cons,Cons,0.03333333
+01-04-2023,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-07-2023,APTY IN Equity,Apollo Tyres Ltd.,Cons,Cons,0.03333333
+01-07-2023,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-07-2023,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03333333
+01-07-2023,BJHI IN Equity,Bajaj Holdings & Investment Ltd.,Cons,Cons,0.03333333
+01-07-2023,BOB IN Equity,Bank Of Baroda,Cons,Cons,0.03333333
+01-07-2023,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-07-2023,DALBHARA IN Equity,Dalmia Bharat Ltd.,Cons,Cons,0.03333333
+01-07-2023,ESCORTS IN Equity,Escorts Kubota Ltd.,Cons,Cons,0.03333333
+01-07-2023,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-07-2023,GRASIM IN Equity,Grasim Industries Ltd.,Cons,Cons,0.03333333
+01-07-2023,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-07-2023,ICICIBC IN Equity,ICICI Bank Ltd.,Cons,Cons,0.03333333
+01-07-2023,IDBI IN Equity,IDBI Bank Ltd.,Cons,Cons,0.03333333
+01-07-2023,IGL IN Equity,Indraprastha Gas Ltd.,Cons,Cons,0.03333333
+01-07-2023,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-07-2023,IRFC IN Equity,Indian Railway Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2023,ITC IN Equity,ITC Ltd.,Cons,Cons,0.03333333
+01-07-2023,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-07-2023,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-07-2023,LTF IN Equity,L&T Finance Ltd.,Cons,Cons,0.03333333
+01-07-2023,MMFS IN Equity,M&M Financial Services Ltd.,Cons,Cons,0.03333333
+01-07-2023,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-07-2023,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-07-2023,PNB IN Equity,Punjab National Bank.,Cons,Cons,0.03333333
+01-07-2023,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2023,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2023,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-07-2023,TCOM IN Equity,Tata Communications Ltd.,Cons,Cons,0.03333333
+01-07-2023,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-07-2023,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-10-2023,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-10-2023,AXSB IN Equity,Axis Bank Ltd.,Cons,Cons,0.03333333
+01-10-2023,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-10-2023,BOB IN Equity,Bank Of Baroda,Cons,Cons,0.03333333
+01-10-2023,CBK IN Equity,Canara Bank.,Cons,Cons,0.03333333
+01-10-2023,COFORGE IN Equity,Coforge Ltd.,Cons,Cons,0.03333333
+01-10-2023,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-10-2023,FB IN Equity,Federal Bank Ltd.,Cons,Cons,0.03333333
+01-10-2023,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-10-2023,HCLT IN Equity,HCL Technologies Ltd.,Cons,Cons,0.03333333
+01-10-2023,IDBI IN Equity,IDBI Bank Ltd.,Cons,Cons,0.03333333
+01-10-2023,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-10-2023,KKC IN Equity,Cummins India Ltd.,Cons,Cons,0.03333333
+01-10-2023,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-10-2023,LTF IN Equity,L&T Finance Ltd.,Cons,Cons,0.03333333
+01-10-2023,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2023,MMFS IN Equity,M&M Financial Services Ltd.,Cons,Cons,0.03333333
+01-10-2023,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-10-2023,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-10-2023,OFSS IN Equity,Oracle Financial Services Software Ltd.,Cons,Cons,0.03333333
+01-10-2023,OINL IN Equity,Oil India Ltd.,Cons,Cons,0.03333333
+01-10-2023,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2023,PNB IN Equity,Punjab National Bank.,Cons,Cons,0.03333333
+01-10-2023,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2023,PSYS IN Equity,Persistent Systems Ltd.,Cons,Cons,0.03333333
+01-10-2023,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2023,SHFL IN Equity,Shriram Finance Ltd.,Cons,Cons,0.03333333
+01-10-2023,TCOM IN Equity,Tata Communications Ltd.,Cons,Cons,0.03333333
+01-10-2023,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-10-2023,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-01-2024,ALKEM IN Equity,Alkem Laboratories Ltd.,Cons,Cons,0.03333333
+01-01-2024,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-01-2024,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-01-2024,BPCL IN Equity,Bharat Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-01-2024,CBK IN Equity,Canara Bank.,Cons,Cons,0.03333333
+01-01-2024,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-01-2024,CRIN IN Equity,Coromandel International Ltd.,Cons,Cons,0.03333333
+01-01-2024,DRRD IN Equity,Dr. Reddy's Laboratories Ltd.,Cons,Cons,0.03333333
+01-01-2024,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-01-2024,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-01-2024,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-01-2024,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-01-2024,LPC IN Equity,Lupin Ltd.,Cons,Cons,0.03333333
+01-01-2024,LT IN Equity,Larsen & Toubro Ltd.,Cons,Cons,0.03333333
+01-01-2024,LTF IN Equity,L&T Finance Ltd.,Cons,Cons,0.03333333
+01-01-2024,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-01-2024,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-01-2024,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-01-2024,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-01-2024,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-01-2024,OFSS IN Equity,Oracle Financial Services Software Ltd.,Cons,Cons,0.03333333
+01-01-2024,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2024,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2024,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-01-2024,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-01-2024,SHFL IN Equity,Shriram Finance Ltd.,Cons,Cons,0.03333333
+01-01-2024,SJVN IN Equity,SJVN Ltd.,Cons,Cons,0.03333333
+01-01-2024,SUF IN Equity,Sundaram Finance Ltd.,Cons,Cons,0.03333333
+01-01-2024,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-01-2024,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-04-2024,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-04-2024,BHE IN Equity,Bharat Electronics Ltd.,Cons,Cons,0.03333333
+01-04-2024,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-04-2024,BOB IN Equity,Bank Of Baroda,Cons,Cons,0.03333333
+01-04-2024,BPCL IN Equity,Bharat Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-04-2024,CCRI IN Equity,Container Corp of India Ltd.,Cons,Cons,0.03333333
+01-04-2024,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-04-2024,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-04-2024,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-04-2024,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-04-2024,HPCL IN Equity,Hindustan Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-04-2024,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-04-2024,LICI IN Equity,Life Insurance Corporation of India.,Cons,Cons,0.03333333
+01-04-2024,LTF IN Equity,L&T Finance Ltd.,Cons,Cons,0.03333333
+01-04-2024,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-04-2024,MOTHERSO IN Equity,Samvardhana Motherson International Ltd.,Cons,Cons,0.03333333
+01-04-2024,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-04-2024,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-04-2024,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-04-2024,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2024,POWF IN Equity,Power Finance Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2024,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-04-2024,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-04-2024,SAIL IN Equity,Steel Authority of India Ltd.,Cons,Cons,0.03333333
+01-04-2024,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-04-2024,SHFL IN Equity,Shriram Finance Ltd.,Cons,Cons,0.03333333
+01-04-2024,SUF IN Equity,Sundaram Finance Ltd.,Cons,Cons,0.03333333
+01-04-2024,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-04-2024,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-04-2024,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333
+01-07-2024,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-07-2024,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-07-2024,BOB IN Equity,Bank Of Baroda,Cons,Cons,0.03333333
+01-07-2024,BPCL IN Equity,Bharat Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-07-2024,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-07-2024,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-07-2024,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-07-2024,HNDL IN Equity,Hindalco Industries Ltd.,Cons,Cons,0.03333333
+01-07-2024,HPCL IN Equity,Hindustan Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-07-2024,INBK IN Equity,Indian Bank.,Cons,Cons,0.03333333
+01-07-2024,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-07-2024,JSP IN Equity,Jindal Steel & Power Ltd.,Cons,Cons,0.03333333
+01-07-2024,LICHF IN Equity,LIC Housing Finance Ltd.,Cons,Cons,0.03333333
+01-07-2024,LICI IN Equity,Life Insurance Corporation of India.,Cons,Cons,0.03333333
+01-07-2024,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-07-2024,MOTHERSO IN Equity,Samvardhana Motherson International Ltd.,Cons,Cons,0.03333333
+01-07-2024,NAM IN Equity,Nippon Life India Asset Management Ltd.,Cons,Cons,0.03333333
+01-07-2024,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-07-2024,NMDC IN Equity,NMDC Ltd.,Cons,Cons,0.03333333
+01-07-2024,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-07-2024,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2024,PNB IN Equity,Punjab National Bank.,Cons,Cons,0.03333333
+01-07-2024,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-07-2024,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-07-2024,SAIL IN Equity,Steel Authority of India Ltd.,Cons,Cons,0.03333333
+01-07-2024,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-07-2024,TATA IN Equity,Tata Steel Ltd.,Cons,Cons,0.03333333
+01-07-2024,TPW IN Equity,Torrent Power Ltd.,Cons,Cons,0.03333333
+01-07-2024,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-07-2024,TTMT IN Equity,Tata Motors Ltd.,Cons,Cons,0.03333333
+01-10-2024,AL IN Equity,Ashok Leyland Ltd.,Cons,Cons,0.03333333
+01-10-2024,ARBP IN Equity,Aurobindo Pharma Ltd.,Cons,Cons,0.03333333
+01-10-2024,BJAUT IN Equity,Bajaj Auto Ltd.,Cons,Cons,0.03333333
+01-10-2024,BPCL IN Equity,Bharat Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-10-2024,CBK IN Equity,Canara Bank.,Cons,Cons,0.03333333
+01-10-2024,COAL IN Equity,Coal India Ltd.,Cons,Cons,0.03333333
+01-10-2024,GAIL IN Equity,GAIL (India) Ltd.,Cons,Cons,0.03333333
+01-10-2024,HMCL IN Equity,Hero MotoCorp Ltd.,Cons,Cons,0.03333333
+01-10-2024,HNAL IN Equity,Hindustan Aeronautics Ltd.,Cons,Cons,0.03333333
+01-10-2024,HNDL IN Equity,Hindalco Industries Ltd.,Cons,Cons,0.03333333
+01-10-2024,HPCL IN Equity,Hindustan Petroleum Corp. Ltd.,Cons,Cons,0.03333333
+01-10-2024,INDUSTOW IN Equity,Indus Towers Ltd.,Cons,Cons,0.03333333
+01-10-2024,IOCL IN Equity,Indian Oil Corp. Ltd.,Cons,Cons,0.03333333
+01-10-2024,LICI IN Equity,Life Insurance Corporation of India.,Cons,Cons,0.03333333
+01-10-2024,LPC IN Equity,Lupin Ltd.,Cons,Cons,0.03333333
+01-10-2024,MM IN Equity,Mahindra & Mahindra Ltd.,Cons,Cons,0.03333333
+01-10-2024,MOTHERSO IN Equity,Samvardhana Motherson International Ltd.,Cons,Cons,0.03333333
+01-10-2024,MUTH IN Equity,Muthoot Finance Ltd.,Cons,Cons,0.03333333
+01-10-2024,NHPC IN Equity,NHPC Ltd.,Cons,Cons,0.03333333
+01-10-2024,NTPC IN Equity,NTPC Limited,Cons,Cons,0.03333333
+01-10-2024,ONGC IN Equity,Oil & Natural Gas Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2024,PLNG IN Equity,Petronet LNG Ltd.,Cons,Cons,0.03333333
+01-10-2024,PWGR IN Equity,Power Grid Corporation Of India Ltd.,Cons,Cons,0.03333333
+01-10-2024,RECL IN Equity,Rural Electrification Corporation Ltd.,Cons,Cons,0.03333333
+01-10-2024,SAIL IN Equity,Steel Authority of India Ltd.,Cons,Cons,0.03333333
+01-10-2024,SBIN IN Equity,State Bank of India.,Cons,Cons,0.03333333
+01-10-2024,SHFL IN Equity,Shriram Finance Ltd.,Cons,Cons,0.03333333
+01-10-2024,TPWR IN Equity,Tata Power Company Ltd.,Cons,Cons,0.03333333
+01-10-2024,TTMT IN Equity,Tata Motors Ltd.,Cons,Cons,0.03333333
+01-10-2024,ZYDUSLIF IN Equity,Zydus Lifesciences Ltd.,Cons,Cons,0.03333333

@@ -1,0 +1,657 @@
+Date,Stock Name,Buy/Sell,BB Symbol
+2018-04-01,Tata Steel Ltd,BUY,TATA IN Equity
+2018-04-01,JSW Steel Ltd,BUY,JSTL IN Equity
+2018-04-01,Mphasis,BUY,MPHL IN Equity
+2018-04-01,Apollo Tyres Ltd.,BUY,APTY IN Equity
+2018-04-01,Samvardhana Motherson International Ltd.,BUY,MOTHERSO IN Equity
+2018-04-01,Coromandel International Ltd,BUY,CRIN IN Equity
+2018-04-01,Reliance Industries,BUY,RELIANCE IN Equity
+2018-04-01,Tata Consumer Products Ltd.,BUY,TATACONS IN Equity
+2018-04-01,Ashok Leyland Ltd,BUY,AL IN Equity
+2018-04-01,Tech Mahindra,BUY,TECHM IN Equity
+2018-04-01,JSW Energy Ltd.,BUY,JSW IN Equity
+2018-04-01,GAIL (India) Ltd.,BUY,GAIL IN Equity
+2018-04-01,Prestige Estates Projects Ltd,BUY,PEPL IN Equity
+2018-04-01,Gujarat State Petronet Ltd.,BUY,GUJS IN Equity
+2018-04-01,Tata Chemicals Ltd,BUY,TTCH IN Equity
+2018-04-01,Larsen & Toubro Ltd,BUY,LT IN Equity
+2018-04-01,DIVIS laboratories Ltd.,BUY,DIVI IN Equity
+2018-04-01,Mangalore Refinery and Petrochemicals,BUY,MRPL IN Equity
+2018-04-01,Petronet LNG Ltd.,BUY,PLNG IN Equity
+2018-04-01,Sammaan Capital Limited,BUY,SAMMAANC IN Equity
+2018-04-01,WIPRO Ltd.,BUY,WPRO IN Equity
+2018-04-01,Bajaj Holdings & Investment Ltd,BUY,BJHI IN Equity
+2018-04-01,Piramal Enterprises Ltd.,BUY,PIEL IN Equity
+2018-04-01,Maruti Suzuki,BUY,MSIL IN Equity
+2018-04-01,Voltas Ltd.,BUY,VOLT IN Equity
+2018-04-01,Container Corp of India Ltd,BUY,CCRI IN Equity
+2018-04-01,Infosys,BUY,INFO IN Equity
+2018-04-01,Tata Consultancy Services,BUY,TCS IN Equity
+2018-04-01,TVS Motor Company Ltd.,BUY,TVSL IN Equity
+2018-04-01,Mahindra & Mahindra Ltd.,BUY,MM IN Equity
+2018-06-30,Samvardhana Motherson International Ltd.,SELL,MOTHERSO IN Equity
+2018-06-30,Coromandel International Ltd,SELL,CRIN IN Equity
+2018-06-30,Prestige Estates Projects Ltd,SELL,PEPL IN Equity
+2018-06-30,Gujarat State Petronet Ltd.,SELL,GUJS IN Equity
+2018-06-30,Mangalore Refinery and Petrochemicals,SELL,MRPL IN Equity
+2018-06-30,Petronet LNG Ltd.,SELL,PLNG IN Equity
+2018-06-30,WIPRO Ltd.,SELL,WPRO IN Equity
+2018-06-30,Piramal Enterprises Ltd.,SELL,PIEL IN Equity
+2018-06-30,Maruti Suzuki,SELL,MSIL IN Equity
+2018-06-30,Voltas Ltd.,SELL,VOLT IN Equity
+2018-06-30,Container Corp of India Ltd,SELL,CCRI IN Equity
+2018-06-30,TVS Motor Company Ltd.,SELL,TVSL IN Equity
+2018-07-01,Oil India Ltd,BUY,OINL IN Equity
+2018-07-01,Oil & Natural Gas Corporation Ltd.,BUY,ONGC IN Equity
+2018-07-01,M&M Financial Services Ltd,BUY,MMFS IN Equity
+2018-07-01,SRF Ltd.,BUY,SRF IN Equity
+2018-07-01,Coal India Limited,BUY,COAL IN Equity
+2018-07-01,NMDC Ltd,BUY,NMDC IN Equity
+2018-07-01,Abbott India Ltd.,BUY,BOOT IN Equity
+2018-07-01,NTPC Limited,BUY,NTPC IN Equity
+2018-07-01,YES Bank Ltd.,BUY,YES IN Equity
+2018-07-01,Phoenix Mills Ltd.,BUY,PHNX IN Equity
+2018-07-01,Bajaj Finserv Ltd,BUY,BJFIN IN Equity
+2018-07-01,Pfizer Ltd.,BUY,PFIZ IN Equity
+2018-09-30,Ashok Leyland Ltd,SELL,AL IN Equity
+2018-09-30,Oil India Ltd,SELL,OINL IN Equity
+2018-09-30,Bajaj Holdings & Investment Ltd,SELL,BJHI IN Equity
+2018-09-30,DIVIS laboratories Ltd.,SELL,DIVI IN Equity
+2018-09-30,JSW Energy Ltd.,SELL,JSW IN Equity
+2018-09-30,Coal India Limited,SELL,COAL IN Equity
+2018-09-30,Apollo Tyres Ltd.,SELL,APTY IN Equity
+2018-09-30,Tata Steel Ltd,SELL,TATA IN Equity
+2018-09-30,Sammaan Capital Limited,SELL,SAMMAANC IN Equity
+2018-09-30,NMDC Ltd,SELL,NMDC IN Equity
+2018-09-30,YES Bank Ltd.,SELL,YES IN Equity
+2018-09-30,Phoenix Mills Ltd.,SELL,PHNX IN Equity
+2018-09-30,Bajaj Finserv Ltd,SELL,BJFIN IN Equity
+2018-10-01,Exide Industries Ltd.,BUY,EXID IN Equity
+2018-10-01,Ipca Laboratories,BUY,IPCA IN Equity
+2018-10-01,Piramal Enterprises Ltd.,BUY,PIEL IN Equity
+2018-10-01,ICICI Bank Ltd,BUY,ICICIBC IN Equity
+2018-10-01,HCL Technologies Limited,BUY,HCLT IN Equity
+2018-10-01,Aarti Industries Ltd.,BUY,ARTO IN Equity
+2018-10-01,Sanofi India Ltd.,BUY,SANL IN Equity
+2018-10-01,Atul Ltd.,BUY,ATLP IN Equity
+2018-10-01,City Union Bank Ltd.,BUY,CUBK IN Equity
+2018-10-01,Petronet LNG Ltd.,BUY,PLNG IN Equity
+2018-10-01,Godrej Consumer Products Ltd.,BUY,GCPL IN Equity
+2018-10-01,EIH Ltd.,BUY,EIH IN Equity
+2018-10-01,Dabur India Ltd.,BUY,DABUR IN Equity
+2018-12-31,SRF Ltd.,SELL,SRF IN Equity
+2018-12-31,Piramal Enterprises Ltd.,SELL,PIEL IN Equity
+2018-12-31,M&M Financial Services Ltd,SELL,MMFS IN Equity
+2018-12-31,Oil & Natural Gas Corporation Ltd.,SELL,ONGC IN Equity
+2018-12-31,Aarti Industries Ltd.,SELL,ARTO IN Equity
+2018-12-31,Tata Consumer Products Ltd.,SELL,TATACONS IN Equity
+2018-12-31,City Union Bank Ltd.,SELL,CUBK IN Equity
+2018-12-31,Petronet LNG Ltd.,SELL,PLNG IN Equity
+2018-12-31,NTPC Limited,SELL,NTPC IN Equity
+2018-12-31,Godrej Consumer Products Ltd.,SELL,GCPL IN Equity
+2018-12-31,Dabur India Ltd.,SELL,DABUR IN Equity
+2019-01-01,Aurobindo Pharma Ltd.,BUY,ARBP IN Equity
+2019-01-01,Torrent Power Ltd,BUY,TPW IN Equity
+2019-01-01,Housing Development Finance Corp Ltd,BUY,HDFC IN Equity
+2019-01-01,Alembic Pharmaceuticals Limited,BUY,ALPM IN Equity
+2019-01-01,Muthoot Finance Ltd.,BUY,MUTH IN Equity
+2019-01-01,Ashok Leyland Ltd,BUY,AL IN Equity
+2019-01-01,Bajaj Holdings & Investment Ltd,BUY,BJHI IN Equity
+2019-01-01,Lupin Ltd.,BUY,LPC IN Equity
+2019-01-01,Dr. Reddys Laboratories,BUY,DRRD IN Equity
+2019-01-01,UPL Limited,BUY,UPLL IN Equity
+2019-01-01,Glenmark Pharmaceuticals Ltd,BUY,GNP IN Equity
+2019-03-31,Mahindra & Mahindra Ltd.,SELL,MM IN Equity
+2019-03-31,Torrent Power Ltd,SELL,TPW IN Equity
+2019-03-31,Housing Development Finance Corp Ltd,SELL,HDFC IN Equity
+2019-03-31,Ipca Laboratories,SELL,IPCA IN Equity
+2019-03-31,Tata Chemicals Ltd,SELL,TTCH IN Equity
+2019-03-31,Alembic Pharmaceuticals Limited,SELL,ALPM IN Equity
+2019-03-31,Ashok Leyland Ltd,SELL,AL IN Equity
+2019-03-31,Sanofi India Ltd.,SELL,SANL IN Equity
+2019-03-31,EIH Ltd.,SELL,EIH IN Equity
+2019-04-01,WIPRO Ltd.,BUY,WPRO IN Equity
+2019-04-01,LTIMindtree Limited,BUY,LTIM IN Equity
+2019-04-01,Bajaj Auto,BUY,BJAUT IN Equity
+2019-04-01,SRF Ltd.,BUY,SRF IN Equity
+2019-04-01,Petronet LNG Ltd.,BUY,PLNG IN Equity
+2019-04-01,L&T Technology Services Ltd.,BUY,LTTS IN Equity
+2019-04-01,Axis Bank Ltd,BUY,AXSB IN Equity
+2019-04-01,Power Grid Corporation Of India Ltd.,BUY,PWGR IN Equity
+2019-04-01,Dabur India Ltd.,BUY,DABUR IN Equity
+2019-06-30,Mphasis,SELL,MPHL IN Equity
+2019-06-30,Infosys,SELL,INFO IN Equity
+2019-06-30,Aurobindo Pharma Ltd.,SELL,ARBP IN Equity
+2019-06-30,Tata Consultancy Services,SELL,TCS IN Equity
+2019-06-30,LTIMindtree Limited,SELL,LTIM IN Equity
+2019-06-30,Bajaj Auto,SELL,BJAUT IN Equity
+2019-06-30,JSW Steel Ltd,SELL,JSTL IN Equity
+2019-06-30,Lupin Ltd.,SELL,LPC IN Equity
+2019-06-30,Glenmark Pharmaceuticals Ltd,SELL,GNP IN Equity
+2019-06-30,Pfizer Ltd.,SELL,PFIZ IN Equity
+2019-06-30,Abbott India Ltd.,SELL,BOOT IN Equity
+2019-06-30,SRF Ltd.,SELL,SRF IN Equity
+2019-06-30,Exide Industries Ltd.,SELL,EXID IN Equity
+2019-06-30,Power Grid Corporation Of India Ltd.,SELL,PWGR IN Equity
+2019-06-30,Dabur India Ltd.,SELL,DABUR IN Equity
+2019-07-01,Federal Bank Ltd,BUY,FB IN Equity
+2019-07-01,LIC Housing Finance Ltd,BUY,LICHF IN Equity
+2019-07-01,ACC Ltd.,BUY,ACC IN Equity
+2019-07-01,JSW Energy Ltd.,BUY,JSW IN Equity
+2019-07-01,Ipca Laboratories,BUY,IPCA IN Equity
+2019-07-01,Oil & Natural Gas Corporation Ltd.,BUY,ONGC IN Equity
+2019-07-01,Indian Oil Corp. Ltd.,BUY,IOCL IN Equity
+2019-07-01,NHPC Ltd.,BUY,NHPC IN Equity
+2019-07-01,Cummins India Ltd,BUY,KKC IN Equity
+2019-07-01,Gujarat Gas Ltd.,BUY,GUJGA IN Equity
+2019-07-01,Indraprastha Gas Ltd.,BUY,IGL IN Equity
+2019-07-01,State Bank of India.,BUY,SBIN IN Equity
+2019-07-01,Coromandel International Ltd,BUY,CRIN IN Equity
+2019-07-01,DIVIS laboratories Ltd.,BUY,DIVI IN Equity
+2019-07-01,NTPC Limited,BUY,NTPC IN Equity
+2019-09-30,Federal Bank Ltd,SELL,FB IN Equity
+2019-09-30,Reliance Industries,SELL,RELIANCE IN Equity
+2019-09-30,ACC Ltd.,SELL,ACC IN Equity
+2019-09-30,Tech Mahindra,SELL,TECHM IN Equity
+2019-09-30,Oil & Natural Gas Corporation Ltd.,SELL,ONGC IN Equity
+2019-09-30,Atul Ltd.,SELL,ATLP IN Equity
+2019-09-30,L&T Technology Services Ltd.,SELL,LTTS IN Equity
+2019-09-30,Dr. Reddys Laboratories,SELL,DRRD IN Equity
+2019-09-30,HCL Technologies Limited,SELL,HCLT IN Equity
+2019-09-30,Indian Oil Corp. Ltd.,SELL,IOCL IN Equity
+2019-09-30,Axis Bank Ltd,SELL,AXSB IN Equity
+2019-09-30,Cummins India Ltd,SELL,KKC IN Equity
+2019-09-30,GAIL (India) Ltd.,SELL,GAIL IN Equity
+2019-09-30,State Bank of India.,SELL,SBIN IN Equity
+2019-09-30,DIVIS laboratories Ltd.,SELL,DIVI IN Equity
+2019-10-01,Gujarat State Petronet Ltd.,BUY,GUJS IN Equity
+2019-10-01,Power Grid Corporation Of India Ltd.,BUY,PWGR IN Equity
+2019-10-01,Housing Development Finance Corp Ltd,BUY,HDFC IN Equity
+2019-10-01,Oberoi Realty Ltd.,BUY,OBER IN Equity
+2019-10-01,Tata Consumer Products Ltd.,BUY,TATACONS IN Equity
+2019-10-01,Aarti Industries Ltd.,BUY,ARTO IN Equity
+2019-10-01,ICICI Prudential Life Insurance,BUY,IPRU IN Equity
+2019-10-01,Rajesh Exports Ltd,BUY,RJEX IN Equity
+2019-10-01,Bajaj Auto,BUY,BJAUT IN Equity
+2019-10-01,Apollo Hospitals Enterprise Limited,BUY,APHS IN Equity
+2019-10-01,Infosys,BUY,INFO IN Equity
+2019-10-01,Phoenix Mills Ltd.,BUY,PHNX IN Equity
+2019-10-01,Mahanagar Gas Ltd.,BUY,MAHGL IN Equity
+2019-10-01,PI Industries Ltd,BUY,PI IN Equity
+2019-10-01,Aditya Birla Real Estate Limited,BUY,ABCAP IN Equity
+2019-12-31,Power Grid Corporation Of India Ltd.,SELL,PWGR IN Equity
+2019-12-31,Oberoi Realty Ltd.,SELL,OBER IN Equity
+2019-12-31,NHPC Ltd.,SELL,NHPC IN Equity
+2019-12-31,Aarti Industries Ltd.,SELL,ARTO IN Equity
+2019-12-31,Larsen & Toubro Ltd,SELL,LT IN Equity
+2019-12-31,Apollo Hospitals Enterprise Limited,SELL,APHS IN Equity
+2019-12-31,Infosys,SELL,INFO IN Equity
+2019-12-31,ICICI Bank Ltd,SELL,ICICIBC IN Equity
+2019-12-31,PI Industries Ltd,SELL,PI IN Equity
+2019-12-31,Aditya Birla Real Estate Limited,SELL,ABCAP IN Equity
+2019-12-31,WIPRO Ltd.,SELL,WPRO IN Equity
+2020-01-01,JK Cement Ltd.,BUY,JKCE IN Equity
+2020-01-01,Reliance Industries,BUY,RELIANCE IN Equity
+2020-01-01,HCL Technologies Limited,BUY,HCLT IN Equity
+2020-01-01,Bharti Airtel Ltd.,BUY,BHARTI IN Equity
+2020-01-01,Indian Oil Corp. Ltd.,BUY,IOCL IN Equity
+2020-01-01,Tech Mahindra,BUY,TECHM IN Equity
+2020-01-01,Voltas Ltd.,BUY,VOLT IN Equity
+2020-01-01,Sundaram Finance Ltd.,BUY,SUF IN Equity
+2020-01-01,The Ramco Cements Ltd.,BUY,TRCL IN Equity
+2020-01-01,Siemens Ltd.,BUY,SIEM IN Equity
+2020-01-01,Dr. Reddys Laboratories,BUY,DRRD IN Equity
+2020-03-31,JK Cement Ltd.,SELL,JKCE IN Equity
+2020-03-31,Reliance Industries,SELL,RELIANCE IN Equity
+2020-03-31,Rajesh Exports Ltd,SELL,RJEX IN Equity
+2020-03-31,HCL Technologies Limited,SELL,HCLT IN Equity
+2020-03-31,Ipca Laboratories,SELL,IPCA IN Equity
+2020-03-31,JSW Energy Ltd.,SELL,JSW IN Equity
+2020-03-31,Bajaj Holdings & Investment Ltd,SELL,BJHI IN Equity
+2020-03-31,UPL Limited,SELL,UPLL IN Equity
+2020-03-31,Mahanagar Gas Ltd.,SELL,MAHGL IN Equity
+2020-03-31,Indian Oil Corp. Ltd.,SELL,IOCL IN Equity
+2020-03-31,Voltas Ltd.,SELL,VOLT IN Equity
+2020-03-31,Sundaram Finance Ltd.,SELL,SUF IN Equity
+2020-03-31,The Ramco Cements Ltd.,SELL,TRCL IN Equity
+2020-03-31,Siemens Ltd.,SELL,SIEM IN Equity
+2020-03-31,LIC Housing Finance Ltd,SELL,LICHF IN Equity
+2020-03-31,NTPC Limited,SELL,NTPC IN Equity
+2020-03-31,Dr. Reddys Laboratories,SELL,DRRD IN Equity
+2020-04-01,Torrent Power Ltd,BUY,TPW IN Equity
+2020-04-01,SRF Ltd.,BUY,SRF IN Equity
+2020-04-01,Alkem Laboratories Ltd.,BUY,ALKEM IN Equity
+2020-04-01,Varun Beverages Ltd.,BUY,VBL IN Equity
+2020-04-01,Atul Ltd.,BUY,ATLP IN Equity
+2020-04-01,Sanofi India Ltd.,BUY,SANL IN Equity
+2020-04-01,SJVN Ltd.,BUY,SJVN IN Equity
+2020-04-01,LTIMindtree Limited,BUY,LTIM IN Equity
+2020-04-01,Max Financial Services Ltd.,BUY,MAXF IN Equity
+2020-04-01,Alembic Pharmaceuticals Limited,BUY,ALPM IN Equity
+2020-04-01,SBI Life Insurance Company Ltd.,BUY,SBILIFE IN Equity
+2020-04-01,Apollo Hospitals Enterprise Limited,BUY,APHS IN Equity
+2020-04-01,Supreme Industries Ltd.,BUY,SI IN Equity
+2020-04-01,ICICI Bank Ltd,BUY,ICICIBC IN Equity
+2020-04-01,Power Grid Corporation Of India Ltd.,BUY,PWGR IN Equity
+2020-04-01,Aarti Industries Ltd.,BUY,ARTO IN Equity
+2020-04-01,MRF Ltd.,BUY,MRF IN Equity
+2020-06-30,SRF Ltd.,SELL,SRF IN Equity
+2020-06-30,ICICI Prudential Life Insurance,SELL,IPRU IN Equity
+2020-06-30,Varun Beverages Ltd.,SELL,VBL IN Equity
+2020-06-30,Atul Ltd.,SELL,ATLP IN Equity
+2020-06-30,Phoenix Mills Ltd.,SELL,PHNX IN Equity
+2020-06-30,SJVN Ltd.,SELL,SJVN IN Equity
+2020-06-30,LTIMindtree Limited,SELL,LTIM IN Equity
+2020-06-30,Max Financial Services Ltd.,SELL,MAXF IN Equity
+2020-06-30,SBI Life Insurance Company Ltd.,SELL,SBILIFE IN Equity
+2020-06-30,Apollo Hospitals Enterprise Limited,SELL,APHS IN Equity
+2020-06-30,Housing Development Finance Corp Ltd,SELL,HDFC IN Equity
+2020-06-30,Supreme Industries Ltd.,SELL,SI IN Equity
+2020-06-30,ICICI Bank Ltd,SELL,ICICIBC IN Equity
+2020-06-30,Tech Mahindra,SELL,TECHM IN Equity
+2020-06-30,Power Grid Corporation Of India Ltd.,SELL,PWGR IN Equity
+2020-06-30,Aarti Industries Ltd.,SELL,ARTO IN Equity
+2020-07-01,Zydus Lifesciences Ltd.,BUY,ZYDUSLIF IN Equity
+2020-07-01,Dr. Reddys Laboratories,BUY,DRRD IN Equity
+2020-07-01,Mahanagar Gas Ltd.,BUY,MAHGL IN Equity
+2020-07-01,Ajanta Pharma.,BUY,AJP IN Equity
+2020-07-01,Reliance Industries,BUY,RELIANCE IN Equity
+2020-07-01,JK Cement Ltd.,BUY,JKCE IN Equity
+2020-07-01,HCL Technologies Limited,BUY,HCLT IN Equity
+2020-07-01,Ipca Laboratories,BUY,IPCA IN Equity
+2020-07-01,Amara Raja Energy & Mobility Ltd.,BUY,ARENM IN Equity
+2020-07-01,Torrent Pharmaceuticals Ltd.,BUY,TRP IN Equity
+2020-07-01,NHPC Ltd.,BUY,NHPC IN Equity
+2020-07-01,Abbott India Ltd.,BUY,BOOT IN Equity
+2020-07-01,Cipla Ltd.,BUY,CIPLA IN Equity
+2020-07-01,Mphasis,BUY,MPHL IN Equity
+2020-07-01,Hero MotoCorp Ltd.,BUY,HMCL IN Equity
+2020-07-01,Exide Industries Ltd.,BUY,EXID IN Equity
+2020-09-30,Mahanagar Gas Ltd.,SELL,MAHGL IN Equity
+2020-09-30,Petronet LNG Ltd.,SELL,PLNG IN Equity
+2020-09-30,Gujarat State Petronet Ltd.,SELL,GUJS IN Equity
+2020-09-30,Amara Raja Energy & Mobility Ltd.,SELL,ARENM IN Equity
+2020-09-30,Indraprastha Gas Ltd.,SELL,IGL IN Equity
+2020-09-30,Sanofi India Ltd.,SELL,SANL IN Equity
+2020-09-30,Bajaj Auto,SELL,BJAUT IN Equity
+2020-09-30,Abbott India Ltd.,SELL,BOOT IN Equity
+2020-09-30,Bharti Airtel Ltd.,SELL,BHARTI IN Equity
+2020-09-30,Exide Industries Ltd.,SELL,EXID IN Equity
+2020-09-30,MRF Ltd.,SELL,MRF IN Equity
+2020-10-01,Tata Steel Ltd,BUY,TATA IN Equity
+2020-10-01,Deepak Nitrite Ltd.,BUY,DN IN Equity
+2020-10-01,JSW Steel Ltd,BUY,JSTL IN Equity
+2020-10-01,NMDC Ltd,BUY,NMDC IN Equity
+2020-10-01,LTIMindtree Limited,BUY,LTIM IN Equity
+2020-10-01,WIPRO Ltd.,BUY,WPRO IN Equity
+2020-10-01,Mahindra & Mahindra Ltd.,BUY,MM IN Equity
+2020-10-01,SRF Ltd.,BUY,SRF IN Equity
+2020-10-01,Power Finance Corporation Ltd.,BUY,POWF IN Equity
+2020-10-01,Hindustan Zinc Ltd.,BUY,HZ IN Equity
+2020-10-01,Tech Mahindra,BUY,TECHM IN Equity
+2020-12-31,NMDC Ltd,SELL,NMDC IN Equity
+2020-12-31,SRF Ltd.,SELL,SRF IN Equity
+2020-12-31,Power Finance Corporation Ltd.,SELL,POWF IN Equity
+2020-12-31,Hindustan Zinc Ltd.,SELL,HZ IN Equity
+2020-12-31,NHPC Ltd.,SELL,NHPC IN Equity
+2020-12-31,Ipca Laboratories,SELL,IPCA IN Equity
+2020-12-31,Tech Mahindra,SELL,TECHM IN Equity
+2020-12-31,Torrent Pharmaceuticals Ltd.,SELL,TRP IN Equity
+2021-01-01,Ambuja Cements Ltd.,BUY,ACEM IN Equity
+2021-01-01,Amara Raja Energy & Mobility Ltd.,BUY,ARENM IN Equity
+2021-01-01,Balkrishna Industries Ltd.,BUY,BIL IN Equity
+2021-01-01,Atul Ltd.,BUY,ATLP IN Equity
+2021-01-01,Grasim Industries Ltd.,BUY,GRASIM IN Equity
+2021-01-01,Tata Power Company Ltd.,BUY,TPWR IN Equity
+2021-01-01,Infosys,BUY,INFO IN Equity
+2021-01-01,ACC Ltd.,BUY,ACC IN Equity
+2021-03-31,Alembic Pharmaceuticals Limited,SELL,ALPM IN Equity
+2021-03-31,Zydus Lifesciences Ltd.,SELL,ZYDUSLIF IN Equity
+2021-03-31,Coromandel International Ltd,SELL,CRIN IN Equity
+2021-03-31,Deepak Nitrite Ltd.,SELL,DN IN Equity
+2021-03-31,Ambuja Cements Ltd.,SELL,ACEM IN Equity
+2021-03-31,Dr. Reddys Laboratories,SELL,DRRD IN Equity
+2021-03-31,Ajanta Pharma.,SELL,AJP IN Equity
+2021-03-31,Amara Raja Energy & Mobility Ltd.,SELL,ARENM IN Equity
+2021-03-31,Balkrishna Industries Ltd.,SELL,BIL IN Equity
+2021-03-31,Cipla Ltd.,SELL,CIPLA IN Equity
+2021-03-31,Gujarat Gas Ltd.,SELL,GUJGA IN Equity
+2021-03-31,Reliance Industries,SELL,RELIANCE IN Equity
+2021-03-31,Atul Ltd.,SELL,ATLP IN Equity
+2021-03-31,LTIMindtree Limited,SELL,LTIM IN Equity
+2021-03-31,Infosys,SELL,INFO IN Equity
+2021-03-31,ACC Ltd.,SELL,ACC IN Equity
+2021-03-31,Alkem Laboratories Ltd.,SELL,ALKEM IN Equity
+2021-03-31,Tata Consumer Products Ltd.,SELL,TATACONS IN Equity
+2021-03-31,Torrent Power Ltd,SELL,TPW IN Equity
+2021-04-01,Hindustan Aeronautics Ltd.,BUY,HNAL IN Equity
+2021-04-01,GAIL (India) Ltd.,BUY,GAIL IN Equity
+2021-04-01,Cummins India Ltd,BUY,KKC IN Equity
+2021-04-01,LIC Housing Finance Ltd,BUY,LICHF IN Equity
+2021-04-01,Aurobindo Pharma Ltd.,BUY,ARBP IN Equity
+2021-04-01,Bharat Forge Ltd.,BUY,BHFC IN Equity
+2021-04-01,Hindustan Zinc Ltd.,BUY,HZ IN Equity
+2021-04-01,Endurance Technologies Ltd.,BUY,ENDU IN Equity
+2021-04-01,State Bank of India.,BUY,SBIN IN Equity
+2021-04-01,Coforge Ltd.,BUY,COFORGE IN Equity
+2021-04-01,Bajaj Auto,BUY,BJAUT IN Equity
+2021-04-01,Bajaj Holdings & Investment Ltd,BUY,BJHI IN Equity
+2021-04-01,Larsen & Toubro Ltd,BUY,LT IN Equity
+2021-04-01,Oil & Natural Gas Corporation Ltd.,BUY,ONGC IN Equity
+2021-04-01,L&T Technology Services Ltd.,BUY,LTTS IN Equity
+2021-04-01,TVS Motor Company Ltd.,BUY,TVSL IN Equity
+2021-04-01,Sundram Fasteners Limited.,BUY,SF IN Equity
+2021-04-01,Sun TV Network Limited.,BUY,SUNTV IN Equity
+2021-04-01,Adani Ports & SEZ Ltd.,BUY,ADSEZ IN Equity
+2021-06-30,JSW Steel Ltd,SELL,JSTL IN Equity
+2021-06-30,Hindustan Aeronautics Ltd.,SELL,HNAL IN Equity
+2021-06-30,Hero MotoCorp Ltd.,SELL,HMCL IN Equity
+2021-06-30,GAIL (India) Ltd.,SELL,GAIL IN Equity
+2021-06-30,Muthoot Finance Ltd.,SELL,MUTH IN Equity
+2021-06-30,Aurobindo Pharma Ltd.,SELL,ARBP IN Equity
+2021-06-30,Bharat Forge Ltd.,SELL,BHFC IN Equity
+2021-06-30,Endurance Technologies Ltd.,SELL,ENDU IN Equity
+2021-06-30,Coforge Ltd.,SELL,COFORGE IN Equity
+2021-06-30,Bajaj Auto,SELL,BJAUT IN Equity
+2021-06-30,Bajaj Holdings & Investment Ltd,SELL,BJHI IN Equity
+2021-06-30,TVS Motor Company Ltd.,SELL,TVSL IN Equity
+2021-06-30,Sundram Fasteners Limited.,SELL,SF IN Equity
+2021-06-30,Sun TV Network Limited.,SELL,SUNTV IN Equity
+2021-07-01,NMDC Ltd,BUY,NMDC IN Equity
+2021-07-01,JSW Energy Ltd.,BUY,JSW IN Equity
+2021-07-01,UPL Limited,BUY,UPLL IN Equity
+2021-07-01,Tech Mahindra,BUY,TECHM IN Equity
+2021-07-01,Dalmia Bharat Ltd.,BUY,DALBHARA IN Equity
+2021-07-01,Supreme Industries Ltd.,BUY,SI IN Equity
+2021-07-01,ICICI Bank Ltd,BUY,ICICIBC IN Equity
+2021-07-01,Ambuja Cements Ltd.,BUY,ACEM IN Equity
+2021-07-01,LTIMindtree Limited,BUY,LTIM IN Equity
+2021-07-01,Axis Bank Ltd,BUY,AXSB IN Equity
+2021-07-01,Infosys,BUY,INFO IN Equity
+2021-07-01,Power Finance Corporation Ltd.,BUY,POWF IN Equity
+2021-07-01,Sundaram Finance Ltd.,BUY,SUF IN Equity
+2021-07-01,Zydus Lifesciences Ltd.,BUY,ZYDUSLIF IN Equity
+2021-09-30,Tata Steel Ltd,SELL,TATA IN Equity
+2021-09-30,JSW Energy Ltd.,SELL,JSW IN Equity
+2021-09-30,UPL Limited,SELL,UPLL IN Equity
+2021-09-30,LIC Housing Finance Ltd,SELL,LICHF IN Equity
+2021-09-30,Supreme Industries Ltd.,SELL,SI IN Equity
+2021-09-30,LTIMindtree Limited,SELL,LTIM IN Equity
+2021-09-30,L&T Technology Services Ltd.,SELL,LTTS IN Equity
+2021-09-30,Mahindra & Mahindra Ltd.,SELL,MM IN Equity
+2021-09-30,Infosys,SELL,INFO IN Equity
+2021-09-30,HCL Technologies Limited,SELL,HCLT IN Equity
+2021-09-30,Hindustan Zinc Ltd.,SELL,HZ IN Equity
+2021-09-30,Zydus Lifesciences Ltd.,SELL,ZYDUSLIF IN Equity
+2021-10-01,Oil India Ltd,BUY,OINL IN Equity
+2021-10-01,Hindustan Aeronautics Ltd.,BUY,HNAL IN Equity
+2021-10-01,Gujarat Gas Ltd.,BUY,GUJGA IN Equity
+2021-10-01,Rural Electrification Corporation Ltd.,BUY,RECL IN Equity
+2021-10-01,Persistent Systems Ltd.,BUY,PSYS IN Equity
+2021-10-01,ACC Ltd.,BUY,ACC IN Equity
+2021-10-01,APL Apollo Tubes Ltd.,BUY,APAT IN Equity
+2021-10-01,Indian Oil Corp. Ltd.,BUY,IOCL IN Equity
+2021-10-01,UltraTech Cement Ltd.,BUY,UTCEM IN Equity
+2021-10-01,Bajaj Holdings & Investment Ltd,BUY,BJHI IN Equity
+2021-10-01,GAIL (India) Ltd.,BUY,GAIL IN Equity
+2021-10-01,Torrent Power Ltd,BUY,TPW IN Equity
+2021-12-31,NMDC Ltd,SELL,NMDC IN Equity
+2021-12-31,Sundaram Finance Ltd.,SELL,SUF IN Equity
+2021-12-31,ICICI Bank Ltd,SELL,ICICIBC IN Equity
+2021-12-31,Adani Ports & SEZ Ltd.,SELL,ADSEZ IN Equity
+2021-12-31,Rural Electrification Corporation Ltd.,SELL,RECL IN Equity
+2021-12-31,Persistent Systems Ltd.,SELL,PSYS IN Equity
+2021-12-31,UltraTech Cement Ltd.,SELL,UTCEM IN Equity
+2021-12-31,Power Finance Corporation Ltd.,SELL,POWF IN Equity
+2021-12-31,Axis Bank Ltd,SELL,AXSB IN Equity
+2021-12-31,GAIL (India) Ltd.,SELL,GAIL IN Equity
+2022-01-01,Rajesh Exports Ltd,BUY,RJEX IN Equity
+2022-01-01,UPL Limited,BUY,UPLL IN Equity
+2022-01-01,Power Grid Corporation Of India Ltd.,BUY,PWGR IN Equity
+2022-01-01,Hindustan Petroleum Corp. Ltd.,BUY,HPCL IN Equity
+2022-01-01,NHPC Ltd.,BUY,NHPC IN Equity
+2022-01-01,Hindustan Zinc Ltd.,BUY,HZ IN Equity
+2022-01-01,NTPC Limited,BUY,NTPC IN Equity
+2022-01-01,Container Corp of India Ltd,BUY,CCRI IN Equity
+2022-01-01,Escorts Kubota Ltd.,BUY,ESCORTS IN Equity
+2022-01-01,Deepak Nitrite Ltd.,BUY,DN IN Equity
+2022-03-31,Grasim Industries Ltd.,SELL,GRASIM IN Equity
+2022-03-31,Dalmia Bharat Ltd.,SELL,DALBHARA IN Equity
+2022-03-31,Ambuja Cements Ltd.,SELL,ACEM IN Equity
+2022-03-31,UPL Ltd.,SELL,UPLL IN Equity
+2022-03-31,JK Cement Ltd.,SELL,JKCE IN Equity
+2022-03-31,Gujarat Gas Ltd.,SELL,GUJGA IN Equity
+2022-03-31,Cummins India Ltd.,SELL,KKC IN Equity
+2022-03-31,ACC Ltd.,SELL,ACC IN Equity
+2022-03-31,Container Corp of India Ltd.,SELL,CCRI IN Equity
+2022-03-31,APL Apollo Tubes Ltd.,SELL,APAT IN Equity
+2022-03-31,Deepak Nitrite Ltd.,SELL,DN IN Equity
+2022-04-01,National Aluminium Company Ltd.,BUY,NACL IN Equity
+2022-04-01,Bharat Electronics Ltd.,BUY,BHE IN Equity
+2022-04-01,Coal India Ltd.,BUY,COAL IN Equity
+2022-04-01,Federal Bank Ltd.,BUY,FB IN Equity
+2022-04-01,Polycab India Ltd.,BUY,POLYCAB IN Equity
+2022-04-01,Schaeffler (Fag Bearings) India Ltd.,BUY,SCHFL IN Equity
+2022-04-01,Sun Pharmaceutical Industries Ltd.,BUY,SUNP IN Equity
+2022-04-01,ICICI Bank Ltd.,BUY,ICICIBC IN Equity
+2022-04-01,Muthoot Finance Ltd.,BUY,MUTH IN Equity
+2022-04-01,NMDC Ltd.,BUY,NMDC IN Equity
+2022-04-01,CRISIL.,BUY,CRISIL IN Equity
+2022-06-30,National Aluminium Company Ltd.,SELL,NACL IN Equity
+2022-06-30,Rajesh Exports Ltd.,SELL,RJEX IN Equity
+2022-06-30,Hindustan Petroleum Corp. Ltd.,SELL,HPCL IN Equity
+2022-06-30,Schaeffler (Fag Bearings) India Ltd.,SELL,SCHFL IN Equity
+2022-06-30,Torrent Power Ltd.,SELL,TPW IN Equity
+2022-06-30,WIPRO Ltd.,SELL,WPRO IN Equity
+2022-06-30,Hindustan Zinc Ltd.,SELL,HZ IN Equity
+2022-06-30,Muthoot Finance Ltd.,SELL,MUTH IN Equity
+2022-06-30,NMDC Ltd.,SELL,NMDC IN Equity
+2022-06-30,CRISIL.,SELL,CRISIL IN Equity
+2022-07-01,Mahindra & Mahindra Ltd.,BUY,MM IN Equity
+2022-07-01,ITC Ltd.,BUY,ITC IN Equity
+2022-07-01,ACC Ltd.,BUY,ACC IN Equity
+2022-07-01,Reliance Industries Ltd.,BUY,RELIANCE IN Equity
+2022-07-01,Ambuja Cements Ltd.,BUY,ACEM IN Equity
+2022-07-01,Petronet LNG Ltd.,BUY,PLNG IN Equity
+2022-07-01,HCL Technologies Ltd.,BUY,HCLT IN Equity
+2022-07-01,GAIL (India) Ltd.,BUY,GAIL IN Equity
+2022-07-01,Coromandel International Ltd.,BUY,CRIN IN Equity
+2022-07-01,SRF Ltd.,BUY,SRF IN Equity
+2022-09-30,Oil India Ltd.,SELL,OINL IN Equity
+2022-09-30,Indian Oil Corp. Ltd.,SELL,IOCL IN Equity
+2022-09-30,Tech Mahindra Ltd.,SELL,TECHM IN Equity
+2022-09-30,Reliance Industries Ltd.,SELL,RELIANCE IN Equity
+2022-09-30,Sun Pharmaceutical Industries Ltd.,SELL,SUNP IN Equity
+2022-09-30,Ambuja Cements Ltd.,SELL,ACEM IN Equity
+2022-09-30,Mphasis Ltd.,SELL,MPHL IN Equity
+2022-09-30,Petronet LNG Ltd.,SELL,PLNG IN Equity
+2022-09-30,HCL Technologies Ltd.,SELL,HCLT IN Equity
+2022-09-30,GAIL (India) Ltd.,SELL,GAIL IN Equity
+2022-09-30,Polycab India Ltd.,SELL,POLYCAB IN Equity
+2022-09-30,SRF Ltd.,SELL,SRF IN Equity
+2022-10-01,Torrent Power Ltd.,BUY,TPW IN Equity
+2022-10-01,UPL Ltd.,BUY,UPLL IN Equity
+2022-10-01,TVS Motor Company Ltd.,BUY,TVSL IN Equity
+2022-10-01,Bajaj Auto Ltd.,BUY,BJAUT IN Equity
+2022-10-01,Thermax Ltd.,BUY,TMX IN Equity
+2022-10-01,Maruti Suzuki India Ltd.,BUY,MSIL IN Equity
+2022-10-01,Cummins India Ltd.,BUY,KKC IN Equity
+2022-10-01,Grasim Industries Ltd.,BUY,GRASIM IN Equity
+2022-10-01,Bosch Ltd.,BUY,BOS IN Equity
+2022-10-01,AIA Engineering Ltd.,BUY,AIAE IN Equity
+2022-10-01,Hero MotoCorp Ltd.,BUY,HMCL IN Equity
+2022-10-01,Embassy Office Parks REIT.,BUY,#N/A
+2022-12-31,Tata Power Company Ltd.,SELL,TPWR IN Equity
+2022-12-31,Torrent Power Ltd.,SELL,TPW IN Equity
+2022-12-31,TVS Motor Company Ltd.,SELL,TVSL IN Equity
+2022-12-31,Larsen & Toubro Ltd.,SELL,LT IN Equity
+2022-12-31,Escorts Kubota Ltd.,SELL,ESCORTS IN Equity
+2022-12-31,Bajaj Holdings & Investment Ltd.,SELL,BJHI IN Equity
+2022-12-31,Thermax Ltd.,SELL,TMX IN Equity
+2022-12-31,Maruti Suzuki India Ltd.,SELL,MSIL IN Equity
+2022-12-31,Grasim Industries Ltd.,SELL,GRASIM IN Equity
+2022-12-31,Bosch Ltd.,SELL,BOS IN Equity
+2022-12-31,AIA Engineering Ltd.,SELL,AIAE IN Equity
+2022-12-31,Embassy Office Parks REIT.,SELL,#N/A
+2023-01-01,Bank Of Baroda,BUY,BOB IN Equity
+2023-01-01,Indian Railway Finance Corporation Ltd.,BUY,IRFC IN Equity
+2023-01-01,Punjab National Bank.,BUY,PNB IN Equity
+2023-01-01,Power Finance Corporation Ltd.,BUY,POWF IN Equity
+2023-01-01,Ambuja Cements Ltd.,BUY,ACEM IN Equity
+2023-01-01,GAIL (India) Ltd.,BUY,GAIL IN Equity
+2023-01-01,JSW Steel Ltd.,BUY,JSTL IN Equity
+2023-01-01,Rural Electrification Corporation Ltd.,BUY,RECL IN Equity
+2023-01-01,Axis Bank Ltd.,BUY,AXSB IN Equity
+2023-01-01,Indian Oil Corp. Ltd.,BUY,IOCL IN Equity
+2023-01-01,Container Corp of India Ltd.,BUY,CCRI IN Equity
+2023-01-01,MRF Ltd.,BUY,MRF IN Equity
+2023-03-31,Bank Of Baroda,SELL,BOB IN Equity
+2023-03-31,JSW Steel Ltd.,SELL,JSTL IN Equity
+2023-03-31,ACC Ltd.,SELL,ACC IN Equity
+2023-03-31,Axis Bank Ltd.,SELL,AXSB IN Equity
+2023-03-31,Bajaj Auto Ltd.,SELL,BJAUT IN Equity
+2023-03-31,Power Grid Corporation Of India Ltd.,SELL,PWGR IN Equity
+2023-03-31,ICICI Bank Ltd.,SELL,ICICIBC IN Equity
+2023-03-31,Cummins India Ltd.,SELL,KKC IN Equity
+2023-03-31,Container Corp of India Ltd.,SELL,CCRI IN Equity
+2023-03-31,Oil & Natural Gas Corporation Ltd.,SELL,ONGC IN Equity
+2023-03-31,UPL Ltd.,SELL,UPLL IN Equity
+2023-04-01,General Insurance Corporation of India.,BUY,GICRE IN Equity
+2023-04-01,Petronet LNG Ltd.,BUY,PLNG IN Equity
+2023-04-01,Zydus Lifesciences Ltd.,BUY,ZYDUSLIF IN Equity
+2023-04-01,Canara Bank.,BUY,CBK IN Equity
+2023-04-01,Bajaj Holdings & Investment Ltd.,BUY,BJHI IN Equity
+2023-04-01,Oil India Ltd.,BUY,OINL IN Equity
+2023-04-01,Supreme Industries Ltd.,BUY,SI IN Equity
+2023-04-01,Indraprastha Gas Ltd.,BUY,IGL IN Equity
+2023-04-01,TVS Motor Company Ltd.,BUY,TVSL IN Equity
+2023-04-01,IDFC First Bank Ltd.,BUY,IDFCFB IN Equity
+2023-04-01,Larsen & Toubro Ltd.,BUY,LT IN Equity
+2023-06-30,General Insurance Corporation of India.,SELL,GICRE IN Equity
+2023-06-30,Mahindra & Mahindra Ltd.,SELL,MM IN Equity
+2023-06-30,Petronet LNG Ltd.,SELL,PLNG IN Equity
+2023-06-30,Canara Bank.,SELL,CBK IN Equity
+2023-06-30,Oil India Ltd.,SELL,OINL IN Equity
+2023-06-30,Supreme Industries Ltd.,SELL,SI IN Equity
+2023-06-30,MRF Ltd.,SELL,MRF IN Equity
+2023-06-30,Ambuja Cements Ltd.,SELL,ACEM IN Equity
+2023-06-30,Coromandel International Ltd.,SELL,CRIN IN Equity
+2023-06-30,TVS Motor Company Ltd.,SELL,TVSL IN Equity
+2023-06-30,GAIL (India) Ltd.,SELL,GAIL IN Equity
+2023-06-30,IDFC First Bank Ltd.,SELL,IDFCFB IN Equity
+2023-06-30,Hero MotoCorp Ltd.,SELL,HMCL IN Equity
+2023-07-01,Bank Of Baroda,BUY,BOB IN Equity
+2023-07-01,IDBI Bank Ltd.,BUY,IDBI IN Equity
+2023-07-01,Apollo Tyres Ltd.,BUY,APTY IN Equity
+2023-07-01,M&M Financial Services Ltd.,BUY,MMFS IN Equity
+2023-07-01,L&T Finance Ltd.,BUY,LTF IN Equity
+2023-07-01,Dalmia Bharat Ltd.,BUY,DALBHARA IN Equity
+2023-07-01,Grasim Industries Ltd.,BUY,GRASIM IN Equity
+2023-07-01,Axis Bank Ltd.,BUY,AXSB IN Equity
+2023-07-01,Torrent Power Ltd.,BUY,TPW IN Equity
+2023-07-01,Cummins India Ltd.,BUY,KKC IN Equity
+2023-07-01,Tata Communications Ltd.,BUY,TCOM IN Equity
+2023-07-01,ICICI Bank Ltd.,BUY,ICICIBC IN Equity
+2023-07-01,Escorts Kubota Ltd.,BUY,ESCORTS IN Equity
+2023-09-30,Indian Railway Finance Corporation Ltd.,SELL,IRFC IN Equity
+2023-09-30,Apollo Tyres Ltd.,SELL,APTY IN Equity
+2023-09-30,Bajaj Holdings & Investment Ltd.,SELL,BJHI IN Equity
+2023-09-30,Coal India Ltd.,SELL,COAL IN Equity
+2023-09-30,Hindustan Aeronautics Ltd.,SELL,HNAL IN Equity
+2023-09-30,Dalmia Bharat Ltd.,SELL,DALBHARA IN Equity
+2023-09-30,Indraprastha Gas Ltd.,SELL,IGL IN Equity
+2023-09-30,ITC Ltd.,SELL,ITC IN Equity
+2023-09-30,Grasim Industries Ltd.,SELL,GRASIM IN Equity
+2023-09-30,State Bank of India.,SELL,SBIN IN Equity
+2023-09-30,Bharat Electronics Ltd.,SELL,BHE IN Equity
+2023-09-30,ICICI Bank Ltd.,SELL,ICICIBC IN Equity
+2023-09-30,Escorts Kubota Ltd.,SELL,ESCORTS IN Equity
+2023-10-01,Oil India Ltd.,BUY,OINL IN Equity
+2023-10-01,Shriram Finance Ltd.,BUY,SHFL IN Equity
+2023-10-01,Canara Bank.,BUY,CBK IN Equity
+2023-10-01,Oil & Natural Gas Corporation Ltd.,BUY,ONGC IN Equity
+2023-10-01,Aurobindo Pharma Ltd.,BUY,ARBP IN Equity
+2023-10-01,GAIL (India) Ltd.,BUY,GAIL IN Equity
+2023-10-01,Oracle Financial Services Software Ltd.,BUY,OFSS IN Equity
+2023-10-01,Coforge Ltd.,BUY,COFORGE IN Equity
+2023-10-01,Bajaj Auto Ltd.,BUY,BJAUT IN Equity
+2023-10-01,Mahindra & Mahindra Ltd.,BUY,MM IN Equity
+2023-10-01,Persistent Systems Ltd.,BUY,PSYS IN Equity
+2023-10-01,HCL Technologies Ltd.,BUY,HCLT IN Equity
+2023-10-01,Dr. Reddy's Laboratories Ltd.,BUY,DRRD IN Equity
+2023-12-31,Oil India Ltd.,SELL,OINL IN Equity
+2023-12-31,Punjab National Bank.,SELL,PNB IN Equity
+2023-12-31,Bank Of Baroda,SELL,BOB IN Equity
+2023-12-31,M&M Financial Services Ltd.,SELL,MMFS IN Equity
+2023-12-31,IDBI Bank Ltd.,SELL,IDBI IN Equity
+2023-12-31,Coforge Ltd.,SELL,COFORGE IN Equity
+2023-12-31,Federal Bank Ltd.,SELL,FB IN Equity
+2023-12-31,Tata Communications Ltd.,SELL,TCOM IN Equity
+2023-12-31,Persistent Systems Ltd.,SELL,PSYS IN Equity
+2023-12-31,HCL Technologies Ltd.,SELL,HCLT IN Equity
+2023-12-31,Axis Bank Ltd.,SELL,AXSB IN Equity
+2023-12-31,Cummins India Ltd.,SELL,KKC IN Equity
+2024-01-01,Coal India Ltd.,BUY,COAL IN Equity
+2024-01-01,SJVN Ltd.,BUY,SJVN IN Equity
+2024-01-01,NMDC Ltd.,BUY,NMDC IN Equity
+2024-01-01,Hero MotoCorp Ltd.,BUY,HMCL IN Equity
+2024-01-01,Muthoot Finance Ltd.,BUY,MUTH IN Equity
+2024-01-01,Bharat Petroleum Corp. Ltd.,BUY,BPCL IN Equity
+2024-01-01,Alkem Laboratories Ltd.,BUY,ALKEM IN Equity
+2024-01-01,Power Grid Corporation Of India Ltd.,BUY,PWGR IN Equity
+2024-01-01,Coromandel International Ltd.,BUY,CRIN IN Equity
+2024-01-01,Sundaram Finance Ltd.,BUY,SUF IN Equity
+2024-01-01,Hindustan Aeronautics Ltd.,BUY,HNAL IN Equity
+2024-01-01,Lupin Ltd.,BUY,LPC IN Equity
+2024-03-31,SJVN Ltd.,SELL,SJVN IN Equity
+2024-03-31,Muthoot Finance Ltd.,SELL,MUTH IN Equity
+2024-03-31,Larsen & Toubro Ltd.,SELL,LT IN Equity
+2024-03-31,Alkem Laboratories Ltd.,SELL,ALKEM IN Equity
+2024-03-31,Coromandel International Ltd.,SELL,CRIN IN Equity
+2024-03-31,Oracle Financial Services Software Ltd.,SELL,OFSS IN Equity
+2024-03-31,Dr. Reddy's Laboratories Ltd.,SELL,DRRD IN Equity
+2024-03-31,Canara Bank.,SELL,CBK IN Equity
+2024-03-31,Lupin Ltd.,SELL,LPC IN Equity
+2024-04-01,Tata Power Company Ltd.,BUY,TPWR IN Equity
+2024-04-01,Bank Of Baroda,BUY,BOB IN Equity
+2024-04-01,Samvardhana Motherson International Ltd.,BUY,MOTHERSO IN Equity
+2024-04-01,Life Insurance Corporation of India.,BUY,LICI IN Equity
+2024-04-01,Hindustan Petroleum Corp. Ltd.,BUY,HPCL IN Equity
+2024-04-01,State Bank of India.,BUY,SBIN IN Equity
+2024-04-01,Container Corp of India Ltd.,BUY,CCRI IN Equity
+2024-04-01,Steel Authority of India Ltd.,BUY,SAIL IN Equity
+2024-04-01,Bharat Electronics Ltd.,BUY,BHE IN Equity
+2024-06-30,Power Finance Corporation Ltd.,SELL,POWF IN Equity
+2024-06-30,Shriram Finance Ltd.,SELL,SHFL IN Equity
+2024-06-30,L&T Finance Ltd.,SELL,LTF IN Equity
+2024-06-30,Zydus Lifesciences Ltd.,SELL,ZYDUSLIF IN Equity
+2024-06-30,Sundaram Finance Ltd.,SELL,SUF IN Equity
+2024-06-30,Container Corp of India Ltd.,SELL,CCRI IN Equity
+2024-06-30,Bharat Electronics Ltd.,SELL,BHE IN Equity
+2024-06-30,Hindustan Aeronautics Ltd.,SELL,HNAL IN Equity
+2024-07-01,Punjab National Bank.,BUY,PNB IN Equity
+2024-07-01,Indian Bank.,BUY,INBK IN Equity
+2024-07-01,Hindalco Industries Ltd.,BUY,HNDL IN Equity
+2024-07-01,LIC Housing Finance Ltd.,BUY,LICHF IN Equity
+2024-07-01,Jindal Steel & Power Ltd.,BUY,JSP IN Equity
+2024-07-01,Tata Motors Ltd.,BUY,TTMT IN Equity
+2024-07-01,Tata Steel Ltd.,BUY,TATA IN Equity
+2024-07-01,Nippon Life India Asset Management Ltd.,BUY,NAM IN Equity
+2024-09-30,Punjab National Bank.,SELL,PNB IN Equity
+2024-09-30,Indian Bank.,SELL,INBK IN Equity
+2024-09-30,NMDC Ltd.,SELL,NMDC IN Equity
+2024-09-30,Torrent Power Ltd.,SELL,TPW IN Equity
+2024-09-30,LIC Housing Finance Ltd.,SELL,LICHF IN Equity
+2024-09-30,Jindal Steel & Power Ltd.,SELL,JSP IN Equity
+2024-09-30,Bank Of Baroda,SELL,BOB IN Equity
+2024-09-30,Tata Steel Ltd.,SELL,TATA IN Equity
+2024-09-30,Nippon Life India Asset Management Ltd.,SELL,NAM IN Equity
+2024-10-01,Indus Towers Ltd.,BUY,INDUSTOW IN Equity
+2024-10-01,Shriram Finance Ltd.,BUY,SHFL IN Equity
+2024-10-01,Canara Bank.,BUY,CBK IN Equity
+2024-10-01,Petronet LNG Ltd.,BUY,PLNG IN Equity
+2024-10-01,Muthoot Finance Ltd.,BUY,MUTH IN Equity
+2024-10-01,Zydus Lifesciences Ltd.,BUY,ZYDUSLIF IN Equity
+2024-10-01,Hindustan Aeronautics Ltd.,BUY,HNAL IN Equity
+2024-10-01,Ashok Leyland Ltd.,BUY,AL IN Equity
+2024-10-01,Lupin Ltd.,BUY,LPC IN Equity
